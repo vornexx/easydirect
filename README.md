@@ -9,7 +9,7 @@ You can adjust the delay before the redirect by changing the value in setTimeout
 You can also add a button that allows users to manually redirect to the website if they don't want to wait.
 Clean graphic:
 
-- You can use a simple graphic for your redirection page. Here are a few suggestions:
+You can use a simple graphic for your redirection page. Here are a few suggestions:
 
 A circular loading icon
 A progress bar
