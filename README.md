@@ -23,4 +23,4 @@ It's important to keep the graphic clean and minimal to avoid distracting users 
 The graphic with your chosen image or animation.
 This code will provide a user-friendly redirection experience with a clean and minimalist design.
 
-[!image](https://github.com/vornex-gh/a-neat-redirection-page/blob/main/demoview.png)
+[!image](main/demoview.png)
