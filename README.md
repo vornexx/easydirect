@@ -2,7 +2,7 @@
 
 This script is included in the HTML code above. It automatically redirects the user after a specified delay.
 
-- Additional notes:
+# ❓ Additional notes:
 
 You can replace the redirect URL with the URL of the website you want to redirect users to.
 You can adjust the delay before the redirect by changing the value in setTimeout.
