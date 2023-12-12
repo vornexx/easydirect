@@ -23,4 +23,5 @@ It's important to keep the graphic clean and minimal to avoid distracting users 
 The graphic with your chosen image or animation.
 This code will provide a user-friendly redirection experience with a clean and minimalist design.
 
-[!image] (https://cdn.discordapp.com/attachments/1150242860273254460/1184232955216924703/demoview.png)
+
+[!image](https://cdn.discordapp.com/attachments/1150242860273254460/1184232955216924703/demoview.png)
