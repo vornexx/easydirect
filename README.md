@@ -22,3 +22,5 @@ It's important to keep the graphic clean and minimal to avoid distracting users 
 "https://www.your-desired-website.com" with the URL of your desired website.
 The graphic with your chosen image or animation.
 This code will provide a user-friendly redirection experience with a clean and minimalist design.
+
+[!image](https://github.com/vornex-gh/a-neat-redirection-page/blob/main/demoview.png?raw=true)
