@@ -19,7 +19,7 @@ It's important to keep the graphic clean and minimal to avoid distracting users 
 
 # Remember to replace the following:
 
-"https://www.your-desired-website.com" with the URL of your desired website. Also, at line 11 in the index.html file you can configure what the main text in the container says.
+"https://www.your-desired-website.com" with the URL of your desired website. Also, at line 11 and 12 in the index.html file you can configure what the main text in the container says.
 The graphic with your chosen image or animation.
 This code will provide a user-friendly redirection experience with a clean and minimalist design.
 
