@@ -32,4 +32,4 @@ It's dead simple, just fork or download the source code on the releases section,
 
 # 🔨 Tools used
 
-Vercel, Github and Visual Studio Code (Optional)
+In order, I would have to use... Github(for you to fork or download this repo), after would be Visual Studio Code(if you chose to download my repo, otherwise just edit the code in GitHub), then Vercel to host your redirection page!
