@@ -25,3 +25,11 @@ This code will provide a user-friendly redirection experience with a clean and m
 # 💻 Demo-View (spotify used in this instance)
 
 ![image](https://github.com/vornex-gh/a-neat-redirection-page/blob/main/demoview.png?raw=true)
+
+# ⚓ Now that you've read through, let's create your own redirection page!
+
+It's dead simple, just fork or download the source code on the releases section, and follow the steps above to get your redirection page up and running. 
+
+# 🔨 Tools used
+
+Vercel, Github and Visual Studio Code (Optional)
