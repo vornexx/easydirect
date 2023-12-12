@@ -1,6 +1,6 @@
 # ⌨️ JS
 
-This script is included in the HTML code above. It automatically redirects the user after a specified delay.
+This script(.js) is included in the HTML code above. It automatically redirects the user after a specified delay.
 
 # ❓ Additional notes :
 
