@@ -23,7 +23,7 @@ body {
     display: inline-block;
     padding: 10px 20px;
     border-radius: 5px;
-    background-color: #007bff;
+    background-color: #bdbdbd;
     color: #fff;
     cursor: pointer;
     animation: pulse 2s ease-in-out infinite;
