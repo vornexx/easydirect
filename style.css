@@ -21,19 +21,17 @@ body {
 .redirect-button-container {
     margin: 20px auto;
     display: inline-block;
-    padding: 10px 20px;
-    border-radius: 5px;
-    background-color: #bdbdbd;
-    color: #fff;
-    cursor: pointer;
-    animation: pulse 2s ease-in-out infinite;
 }
 
-@keyframes pulse {
-    from {
-        transform: scale(1);
-    }
-    to {
-        transform: scale(1.1);
-    }
+.mui-button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.mui-button.pressed {
+    background-color: #0069d9;
 }
