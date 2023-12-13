@@ -26,12 +26,12 @@ body {
 .mui-button {
     padding: 10px 20px;
     border-radius: 5px;
-    background-color: #c7e2ff;
+    background-color: #002042;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
 }
 
 .mui-button.pressed {
-    background-color: #c7e2ff;
+    background-color: #002042;
 }
