@@ -14,7 +14,7 @@ A circular loading icon
 A progress bar
 A simple animation
 A logo or brand image
-It's important to keep the graphic clean and minimal to avoid distracting users from the redirect.
+It's important to keep the graphic clean and minimal to avoid distracting users from the redirect. (💡 tip : use bard AI by google or chatgpt by openai if you don't know how to add the above ⬆️)
 
 # ⚠️ Remember to replace the following ⬇️
 
