@@ -1,38 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Redirecting to vornex's spotify playlist ⚓</h1>
-        <p>You will be redirected to the target website, probably.™️</p>
-        <div class="redirect-button-container">
-            <a href="#" class="mui-button">Click here if you're in a rush. <span class="loading-icon"></span></a>
-        </div>
+  <div class="container">
+    <h1>Redirecting to vornex's spotify playlist 🎵⚓</h1>
+    <p>You will be redirected to the target website, probably.™️</p>
+    <div class="redirect-button-container">
+      <a href="https://open.spotify.com/playlist/1HD9NgiBjiy5NHJh1k3Kcx?si=7b782d5755f14c90" class="mui-button">Click here if you're in a rush.</a>
     </div>
+  </div>
 
-    <script>
-        const redirectButton = document.querySelector('.mui-button');
+  <script>
+    const redirectButton = document.querySelector('.mui-button');
 
-        redirectButton.addEventListener('mousedown', function() {
-            this.classList.add('pressed');
-        });
+    redirectButton.addEventListener('mousedown', function() {
+      this.classList.add('pressed');
+    });
 
-        redirectButton.addEventListener('mouseup', function() {
-            this.classList.remove('pressed');
-        });
+    redirectButton.addEventListener('mouseup', function() {
+      this.classList.remove('pressed');
+    });
 
-        redirectButton.addEventListener('click', function() {
-            this.classList.add('loading');
-
-            setTimeout(function() {
-                window.location.href = "https://open.spotify.com/playlist/1HD9NgiBjiy5NHJh1k3Kcx?si=7b782d5755f14c90";
-            }, 3000);
-        });
-    </script>
+    setTimeout(function () {
+      window.location.href = "https://open.spotify.com/playlist/1HD9NgiBjiy5NHJh1k3Kcx?si=7b782d5755f14c90"; // Replace with your desired URL
+    }, 3000); // Adjust the delay in milliseconds (3 seconds in this example)
+  </script>
 </body>
 </html>
+
+CSS: body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #100512;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.redirect-button-container {
+  margin: 20px auto;
+  display: inline-block;
+}
+
+.mui-button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #19081c;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.mui-button.pressed {
+  background-color: #19081c;
+}
