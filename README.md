@@ -26,4 +26,4 @@ In order, I would have to use... Github(for you to fork or download this repo), 
 
 # 🪶 SEO (search engine optimization)
 
-Remember to keep the page light, under 1kB, have a low SEO load can help load/reload the pages faster. This can aid in getting the user there quicker.
+Remember to keep the page light, under 1kB, having a low SEO load can help load/reload the pages faster. This can aid in getting the user to the target quicker.
