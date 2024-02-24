@@ -22,11 +22,11 @@ It's dead simple, just fork or download the source code on the releases section,
 
 # 🔨 More steps & Hosting
 
-In order, I would have to use... Github(for you to fork or download this repo), after would be Visual Studio Code(if you chose to download my repo, otherwise just edit the code in GitHub), then Vercel or Cloudflare (can be hosted from anywhere of your choice. however, it must be able to host html files) to host your redirection page!
+In order, I would have to use... Github(for you to fork or download this repo), after would be Visual Studio Code(if you chose to download my repo, otherwise just edit the code in GitHub), then Vercel or Cloudflare for hosting you page! (can be hosted from anywhere of your choice. however, it must be able to host html files)
 
 # 🪶 SEO (search engine optimization)
 
-Remember to keep the page light, under 1kB, having a low SEO load can help load/reload the pages faster. This can aid in getting the user to the target quicker.
+Remember to keep the page light, under 1kB, having a low SEO load can help load/reload the pages faster. This can aid in getting the user to the target quicker, and some users may find the website faster due to search engines increases chances of your site being the top search results, reason being search engines like Google likes to have faster loading websites appear first to the user.
 
 # <p align="center"><img src="/heart.png" alt="ily <3"></p>
 
