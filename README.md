@@ -26,7 +26,7 @@ This code will provide a user-friendly redirection experience with a clean and m
 
 # 💻 Demo-View (spotify used in this instance)
 
-![image](https://github.com/vornex-gh/easydirect/blob/main/demoview.png)
+![image](/demoview.png)
 
 # ⚓ Now that you've read through, let's create your own redirection page!
 
