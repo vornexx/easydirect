@@ -4,28 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Redirecting...</title>
-  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Redirecting to vornex's spotify playlist 🎵⚓</h1>
+    <h1>Redirecting to vornex's Spotify playlist 🎵⚓</h1>
     <p>You will be redirected to the target website, probably.™️</p>
     <div class="redirect-button-container">
-      <a href="https://open.spotify.com/playlist/1HD9NgiBjiy5NHJh1k3Kcx" class="mui-button">Click here if you're in a rush.</a>
+      <a id="redirect-link" href="https://open.spotify.com/playlist/1HD9NgiBjiy5NHJh1k3Kcx" class="mui-button">Click here if you're in a rush.</a>
     </div>
   </div>
 
   <script>
-    const redirectButton = document.querySelector('.mui-button');
-
-    redirectButton.addEventListener('mousedown', function() {
-      this.classList.add('pressed');
-    });
-
-    redirectButton.addEventListener('mouseup', function() {
-      this.classList.remove('pressed');
-    });
-
     setTimeout(function () {
       window.location.href = "https://open.spotify.com/playlist/1HD9NgiBjiy5NHJh1k3Kcx?si=7b782d5755f14c90"; // Replace with your desired URL
     }, 3000); // Adjust the delay in milliseconds (3 seconds in this example)
