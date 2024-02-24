@@ -14,7 +14,7 @@ You can also add a button that allows users to manually redirect to the website 
 
 # 💻 Demo-View (spotify used in this instance)
 
-![image](https://raw.githubusercontent.com/vornex-gh/easydirect/main/demo.png)
+![image](/demo.png)
 
 # ⚓ Now that you've read through, let's create your own redirection page!
 
