@@ -4,9 +4,9 @@ This script(.js) is included in the HTML code above. It automatically redirects 
 
 # ❓ Notes :
 
-You can replace the redirect URL with the URL of the website you want to redirect users to.
-You can adjust the delay before the redirect by changing the value in setTimeout.
-You can also add a button that allows users to manually redirect to the website if they don't want to wait.
+> You can replace the redirect URL with the URL of the website you want to redirect users to.
+> You can adjust the delay before the redirect by changing the value in setTimeout.
+> You can also add a button that allows users to manually redirect to the website if they don't want to wait.
 
 # ⚠️ Remember to replace the following
 
