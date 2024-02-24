@@ -8,14 +8,6 @@ You can replace the redirect URL with the URL of the website you want to redirec
 You can adjust the delay before the redirect by changing the value in setTimeout.
 You can also add a button that allows users to manually redirect to the website if they don't want to wait.
 
-# 👍 You can use a simple graphic for your redirection page. Here are a few suggestions,
-
-A circular loading icon
-A progress bar
-A simple animation
-A logo or brand image
-It's important to keep the graphic clean and minimal to avoid distracting users from the redirect. (💡 tip : use bard AI by google or chatgpt by openai if you don't know how to add the above ⬆️)
-
 # ⚠️ Remember to replace the following ⬇️
 
 "https://www.your-desired-website.com" with the URL of your desired website. Also, at line 11 and 12 in the index.html file you can configure what the main text in the container says.
@@ -31,3 +23,7 @@ It's dead simple, just fork or download the source code on the releases section,
 # 🔨 More steps & Hosting
 
 In order, I would have to use... Github(for you to fork or download this repo), after would be Visual Studio Code(if you chose to download my repo, otherwise just edit the code in GitHub), then Vercel or Cloudflare (can be any html hosting site of your choice) to host your redirection page!
+
+# 🪶
+
+Remember to keep the page light, under 1kB, have a low SEO load can help load/reload the pages faster. This can aid in getting the user there quicker.
