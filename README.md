@@ -22,7 +22,7 @@ It's dead simple, just fork or download the source code on the releases section,
 
 # 🔨 More steps & Hosting
 
-In order, I would have to use... Github(for you to fork or download this repo), after would be Visual Studio Code(if you chose to download my repo, otherwise just edit the code in GitHub), then Vercel or Cloudflare (can be any html hosting site of your choice) to host your redirection page!
+In order, I would have to use... Github(for you to fork or download this repo), after would be Visual Studio Code(if you chose to download my repo, otherwise just edit the code in GitHub), then Vercel or Cloudflare (can be hosted from anywhere of your choice. however, it must be able to host html files) to host your redirection page!
 
 # 🪶 SEO (search engine optimization)
 
