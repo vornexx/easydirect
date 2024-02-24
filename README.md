@@ -18,7 +18,7 @@ This script(.js) is included in the HTML code above. It automatically redirects 
 
 # ⚓ Now that you've read through, let's create your own redirection page!
 
-It's dead simple, just fork or download the source code on the releases section, and follow the steps above to get your redirection page up and running. Please refer to notes I explained earlier [here! ⤴️](https://github.com/vornex-gh/easydirect?tab=readme-ov-file#-notes-) 
+It's dead simple, just fork or download the source code on the releases section, and follow the steps above to get your redirection page up and running. Please refer to notes I explained earlier [here! ⤴️](https://github.com/vornex-gh/easydirect/edit/main/README.md#%EF%B8%8F-introduction)
 
 # 🔨 More steps & Hosting
 
