@@ -1,6 +1,6 @@
 # ⌨️ Introduction
 
-This script(.js) is included in the HTML code above. It automatically redirects the user after a specified delay.
+This script(.js) is included in the HTML code above. It automatically redirects the user after a specified delay. Also, ignore the `domains` directory, that's just for an is-a.dev subdomain.
 
 # ❓ Notes :
 
