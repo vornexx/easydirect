@@ -10,7 +10,7 @@ This script(.js) is included in the HTML code above. It automatically redirects 
 
 # ⚠️ Remember to replace the following
 
-"https://www.your-desired-website.com" with the URL of your desired website. Also, at line 9 and 10 in the index.html file you can configure what the main text in the container says.
+"https://example.com" with the URL of your desired website. Also, at line 9 and 10 in the index.html file you can configure what the main text in the container says.
 
 # 💻 Demo-View (spotify used in this instance)
 
