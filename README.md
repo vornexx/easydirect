@@ -28,5 +28,5 @@ In order, I would have to use... Github(for you to fork or download this repo), 
 
 Remember to keep the page light, under 1kB, having a low SEO load can help load/reload the pages faster. This can aid in getting the user to the target quicker, and some users may find the website faster due to search engines increasing chances of your site being in the top search results, reason being search engines like Google likes to have faster loading websites appear first to the user.
 
-# <p align="center"><img src="/heart.png" alt="ily <3"></p>
+# <p align="center"><img src="/heart.png" alt="NO"></p>
 
