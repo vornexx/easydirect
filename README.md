@@ -30,7 +30,7 @@ Remember to keep the page light, under 1kB, having a low SEO load can help load/
 
 # 🧠 If this is all too "word-sy"? 
 
-You can also use [Gemini from Google](gemini.google.com) or [ChatGPT from OpenAI](chatgpt.com).
+You can also use [Gemini from Google](https://gemini.google.com) or [ChatGPT from OpenAI](https://chatgpt.com).
 
 # <p align="center"><img src="/heart.png" alt="NO"></p>
 
